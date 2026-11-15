@@ -4,7 +4,7 @@ The enclosed arrangement proves the upper bound **s(90) ≤ 4999138583463/500000
 
 ![Ninety squares drawn from the exact certificate](n90.png)
 
-Credit for the 90-square result goes to **jazivxt and Codex Astra Ultra**. Codex Astra Ultra was the AI collaborator on the geometric search and verification. The diagonal band comes from Joost de Winter’s earlier 157-square packing. [Joost de Winter’s exact 157-square coordinates](https://github.com/JoostdeWinter/square-packing/blob/c70defaf39af47db220d1e7c2922590637ffb664/n157/n157_exact.json)
+Credit for the 90-square result goes to **jazivxt and GPT-6 Astra Ultra**. GPT-6 Astra Ultra was the AI collaborator on the geometric search and verification. The diagonal band comes from Joost de Winter’s earlier 157-square packing. [Joost de Winter’s exact 157-square coordinates](https://github.com/JoostdeWinter/square-packing/blob/c70defaf39af47db220d1e7c2922590637ffb664/n157/n157_exact.json)
 
 The arrangement was found during the Squares in Squares optimization competition on Kaggle. [jazivxt’s public profile](https://www.kaggle.com/jazivxt) · [Competition overview](https://www.kaggle.com/competitions/squares-in-squares) · [The Squares Project’s N90 case record](https://squaremath.org/cases/90.html)
 
